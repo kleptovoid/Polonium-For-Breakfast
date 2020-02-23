@@ -9,8 +9,9 @@
 			<title>The site is up!</title>
 			<link>https://poloniummuncher.github.io/Polonium-For-Breakfast/</link>
 			<description>
-			<![CDATA[ The first ever update is... Not out yet. ]]>
+			<![CDATA[ The first update ever is... Not out yet. ]]>
 			</description>
+			<guid isPermaLink="false">BreakfastPoloniumMunchWebserial_1</guid>
 		</item>
 	</channel>
 </rss>
