@@ -8,6 +8,11 @@ a:hover
 	color: #a0bd3b;
 }
 
+h1 a
+{
+	text-decoration: none;
+}
+
 body
 {
 	max-width: 640px;
@@ -52,6 +57,11 @@ hr
 {
 	margin-top: 24px;
 	margin-bottom: 30px;
+}
+
+main
+{
+	margin-bottom: 40px;
 }
 
 .spoilerwarning
