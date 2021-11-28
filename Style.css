@@ -69,3 +69,8 @@ main
 	font-size: 14px;
 	color: #222b29;
 }
+
+img
+{
+	width: 100%;
+}
